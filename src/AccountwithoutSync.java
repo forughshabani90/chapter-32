@@ -22,7 +22,7 @@ public class AccountwithoutSync {
         }
     }
 
-    private static class Account {
+    public static class Account {
         private int balance = 0;
 
         public int getBalance() {
